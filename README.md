@@ -15,6 +15,9 @@
 - Users can create sub-spaces for different tasks.
 - Set custom fonts and designs for specific tasks.
 
-## Milestone_1
+## Milestone 1
 
 **Initialized the project with the README file.**
+
+## Milestone 2
+**Setting up the dev environment and installing node packages**
